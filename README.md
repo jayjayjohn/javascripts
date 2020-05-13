@@ -8,3 +8,4 @@ x[0].click();
 for (var i=0 ; i<x.length; i++) x[i].click();
 
 ```
+![Image1](https://github.com/jayjayjohn/javascripts/blob/master/im/Capture1.PNG)
